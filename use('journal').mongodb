@@ -1,6 +1,0 @@
-use('journal')
-
-db.entries.insert({
-  category: 'Food',
-  content: 'Pizza is awesome!'
-})
